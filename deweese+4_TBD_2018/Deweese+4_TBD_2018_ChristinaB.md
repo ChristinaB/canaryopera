@@ -3,6 +3,9 @@
 #### Target Journal:
 #### Target publication date:
 #### Authors (with links to Collaborative Agreement for individuals)
+#### Contributors
+#### Owners (with links to online resources owned)
+#### Funders and Awards (with links to online award statements)
 
 ## 1.0 Introduction
 In an effort to produce FAIR (Findable, Accessible, Interoperable, Reproducible) research products, this guidance document (draft) is intended to communicate with collaborating team members, students, and sponsors.  Please use this as an onboarding/offboarding tool to facilitate an ongoing and improved collaboration process that results in peer reviewed publications and public communications.   This page is a work in progress which we hope to make available on the HydroShare, Help pages and CUAHSI website as a model of how to work as a group to develop ongoing contributions between multiple collaborative projects.   
