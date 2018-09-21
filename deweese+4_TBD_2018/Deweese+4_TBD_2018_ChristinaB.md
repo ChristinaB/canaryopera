@@ -66,15 +66,18 @@ In an effort to build awareness and sensitivity around cultural issues in the wo
 
 ## 5.0 Collaborator Expectations
 I expected the following data, code, online or print publications to be included in future work related this publication
-1. 
-2. 
-3. 
+
+1. Code repo example A
+
+2. HS data publication B
+
+3.  Webpage blog C
 
 
 ### Defining Related Resources
 Citations should be include all foundational work for which the current work has been made possible.  
 
-## Personal Agreement
+## 6.0 Personal Agreement
 Signed by Christina Bandaragoda on 9/21/2018
 
 
