@@ -8,24 +8,28 @@
 #### Funders and Awards (with links to online award statements)
 
 ## 1.0 Introduction
-In an effort to produce FAIR (Findable, Accessible, Interoperable, Reproducible) research products, this guidance document (draft) is intended to communicate with collaborating team members, students, and sponsors.  Please use this as an onboarding/offboarding tool to facilitate an ongoing and improved collaboration process that results in peer reviewed publications and public communications.   This page is a work in progress which we hope to make available on the HydroShare, Help pages and CUAHSI website as a model of how to work as a group to develop ongoing contributions between multiple collaborative projects.   
+In an effort to produce FAIR (Findable, Accessible, Interoperable, Reproducible) research products, this is intended to communicate with collaborating projects members (authors, contributors and sponsors).  Please use or edit this tool to facilitate an ongoing and improved collaboration process that results in peer reviewed publications and public communications.  Have you added Canary Opera to your Data Management Plan? Please add new repositories to https://github.com/canaryopera. Are you using this template for a publication? Fork the canaryopera repository, add a folder with your publication agreements, and Pull Request so we can add your version and data to the library. 
 
-## 2.0 Definitions 
-These definitions are developed to describe the use of HydroShare metadata fields. 
+## 2.0 Definitions, Roles and Responsibilities
+The following definitions are developed to describe the use of HydroShare metadata fields.  Author order should be determined by customs in your domain of research. 
 
 ### Authorship 
+*Definition*
+Author is defined in [Dublin core](http://dublincore.org/documents/1998/09/dces/) as "The person or organization primarily responsible for creating the intellectual content of the resource."
 
 Following Clement (Clement), authors of HydroShare publications are asked to consider that... 
 
 ...the title “author ” is like the title “sculptor ” and such titles simply cannot be conferred on someone.[1,5] These titles can only be earned by an artist by creating a product. “Author ” is someone who goes on an intellectual journey full of twists and turns to create a unique product of his mind; he then shoulders the responsibility to produce a near perfect product. [5]   Potential coauthors who claim a share of this creative effort should ask themselves certain questions: Was I part of a significant stretch of this intellectual journey? Is this effort a near-perfect product of my mind? Can I shoulder some unique responsibilities and defend them? If the answers are yes then he or she should be a coauthor.
 
-HydroShare resources used to publish data related to a publication include will list all authors using the HydroShare metadata fields.  Authors are requested to become HydroShare users and complete the HydroShare profile.  Author order is determined based on the journal, research community practices, and preferences of the co-authors. Author order is controlled by the resource owners, and any user with Edit permissions to the resource. 
+*Metadata*
+HydroShare resources used to publish data related to this publication will list all authors using the HydroShare metadata fields.  Authors are requested to become HydroShare users and complete the HydroShare profile.  Author order is determined based on the journal, research community practices, and preferences of the co-authors. Author order is controlled by the resource owners, and any user with Edit permissions to the resource. 
 
-Author is defined in Dublin core. … reference 
-
+*List of authors and responsibilities*
+Helen Deweese is responsible for the overall coordination and creation of the writing, code and data products. 
+Christina Bandaragoda is responsible for contributing scientific ideas designed to reframe the existing case study in Santa Barbara into a advancement in geospatial interpolation designed with reproducible open source code.
 
 ### Contributors
-
+*Definition*
 Contributors provide advice, suggestions, edits and invest time or resources to enhance the publication.  Contributors are not familiar with every aspect of the intellectual contributions in the work, nor are they implied as or held responsible for the standards, rigor, or quality of results presented in the publication.  
 
 HydroShare resources used to publish data related to the publication will list all contributors using the HydroShare metadata fields.  Contributors are requested to become HydroShare users and complete the HydroShare profile. 
