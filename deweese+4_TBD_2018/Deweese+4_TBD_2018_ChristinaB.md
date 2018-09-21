@@ -41,12 +41,19 @@ By signing this agreement, you are committing to providing a harassment-free lea
 Harassment includes, but is not limited to:
 
 Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
+
 Sexual images in public spaces
+
 Deliberate intimidation, stalking, or following
+
 Harassing photography or recording
+
 Sustained disruption of talks or other events
+
 Inappropriate physical contact
+
 Unwelcome sexual attention
+
 Advocating for, or encouraging, any of the above behaviour
 
 Collaborators asked to stop any harassing behavior are expected to comply immediately. If a collaborator engages in harassing behaviour, the lead author and supporting collaborators retains the right to take any actions to keep the collaboration a welcoming environment for all. This includes warning the offender or expulsion from collaboration.
@@ -62,7 +69,7 @@ In an effort to build awareness and sensitivity around cultural issues in the wo
 
 [x] - I have experienced under or lack of credit for my intellectual contributions. 
 
-[ ] - I am open to personal conversations on the topics listed above.  
+[x] - I am open to personal conversations on the topics listed above.  
 
 ## 5.0 Collaborator Expectations
 I expected the following data, code, online or print publications to be included in future work related this publication
