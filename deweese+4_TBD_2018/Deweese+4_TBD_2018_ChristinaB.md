@@ -1,8 +1,8 @@
 # Collaborative Publication Agreement for Deweese et al., 2018
-### Publication Title: 
-### Target Journal:
-### Target publication date:
-### Authors (with links to Collaborative Agreement for individuals)
+#### Publication Title: 
+#### Target Journal:
+#### Target publication date:
+#### Authors (with links to Collaborative Agreement for individuals)
 
 ## 1.0 Introduction
 In an effort to produce FAIR (Findable, Accessible, Interoperable, Reproducible) research products, this guidance document (draft) is intended to communicate with collaborating team members, students, and sponsors.  Please use this as an onboarding/offboarding tool to facilitate an ongoing and improved collaboration process that results in peer reviewed publications and public communications.   This page is a work in progress which we hope to make available on the HydroShare, Help pages and CUAHSI website as a model of how to work as a group to develop ongoing contributions between multiple collaborative projects.   
@@ -21,18 +21,18 @@ HydroShare resources used to publish data related to a publication include will 
 Author is defined in Dublin core. … reference 
 
 
-#### Contributors
+### Contributors
 
 Contributors provide advice, suggestions, edits and invest time or resources to enhance the publication.  Contributors are not familiar with every aspect of the intellectual contributions in the work, nor are they implied as or held responsible for the standards, rigor, or quality of results presented in the publication.  
 
 HydroShare resources used to publish data related to the publication will list all contributors using the HydroShare metadata fields.  Contributors are requested to become HydroShare users and complete the HydroShare profile. 
 
-#### Ownership of a HydroShare resource
+### Ownership of a HydroShare resource
 Publications and related data may be published on HydroShare as part of the publication process.  This may include generating multiple resources with unique DOIs for contributing datasets or other research products that are outcomes of the work conducted while developing the publication.  Owners of HydroShare resources related to a publication, are responsible for the initiation, maintenance, and serve as the long-term contact that may be necessary to support use of the resource by HydroShare users and the public.  
 
 Owners must be HydroShare users to create new resources. Owners are requested to become HydroShare users and complete the HydroShare profile. Multiple owners are permitted. 
 
-#### Funders
+### Funders
 Funding should include all contributing contracts between all institutions supporting researchers and students contributing to the scope of work during and after the completion of the contracted project.  
 
 ## 3.0 Code of Conduct
@@ -51,13 +51,17 @@ Advocating for, or encouraging, any of the above behaviour
 
 Collaborators asked to stop any harassing behavior are expected to comply immediately. If a collaborator engages in harassing behaviour, the lead author and supporting collaborators retains the right to take any actions to keep the collaboration a welcoming environment for all. This includes warning the offender or expulsion from collaboration.
 
-
 ## 4.0 Cultural Disclosure
 In an effort to build awareness and sensitivity around cultural issues in the workplace, the following fields may be disclosed to contributors (optional). 
+
 [x] - I have experienced sexual harassment in the workplace.
+
 [x] - I have experienced gender discrimination in the workplace. 
+
 [x] - I self-identify as a minority in my field of work, research or education.
+
 [x] - I have experienced under or lack of credit for my intellectual contributions. 
+
 [ ] - I am open to personal conversations on the topics listed above.  
 
 ## 5.0 Collaborator Expectations
@@ -67,7 +71,7 @@ I expected the following data, code, online or print publications to be included
 3. 
 
 
-###Defining Related Resources
+### Defining Related Resources
 Citations should be include all foundational work for which the current work has been made possible.  
 
 ## Personal Agreement
